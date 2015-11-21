@@ -1,14 +1,14 @@
 [
 {
 "remote": "github",
-"repository": "bauner/cm-android_device_samsung_n7000",
+"repository": "sainath24/cm-android_device_samsung_n7000",
 "target_path": "device/samsung/n7000",
-"revision": "cm-12.1"
+"revision": "cm-13"
 },
 {
 "remote": "github",
-"repository": "bauner/android_kernel_samsung_smdk4210",
-"target_path": "kernel/samsung/smdk4210",
+"repository": "bauner/android_kernel_samsung_tw_n7000",
+"target_path": "kernel/samsung/tw",
 "revision": "cm-12.1"
 },
 {
