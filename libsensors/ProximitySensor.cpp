@@ -21,6 +21,7 @@
 #include <unistd.h>
 #include <dirent.h>
 #include <sys/select.h>
+#include <cstring>
 
 //#include <linux/capella_cm3602.h>
 
