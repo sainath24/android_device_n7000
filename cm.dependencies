@@ -7,15 +7,15 @@
     },
     {
        "remote": "github",
-       "repository": "sainath24/android_kernel_samsung_tw_n7000",
-       "target_path": "kernel/samsung/tw",
+       "repository": "sainath24/android_kernel_samsung_smdk4412",
+       "target_path": "kernel/samsung/smdk4412",
        "revision": "cm-13"
     },
     {
        "remote": "github",
        "repository": "CyanogenMod/android_packages_apps_SamsungServiceMode",
        "target_path": "packages/apps/SamsungServiceMode",
-       "revision": "cm-12.1"
+       "revision": "cm-13.0"
     },
     {
        "remote": "github",
@@ -25,7 +25,7 @@
     },
     {
        "remote": "github",
-       "repository": "CrazyWeasel/proprietary_vendor_samsung",
+       "repository": "sainath24/proprietary_vendor_samsung",
        "target_path": "vendor/samsung",
        "revision": "n-2.1"
     },
