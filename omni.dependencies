@@ -3,7 +3,7 @@
        "remote": "github",
        "repository": "sainath24/android_device_samsung_n7000",
        "target_path": "device/samsung/n7000",
-       "revision": "cm-13"
+       "revision": "omni-6.0"
     },
     {
        "remote": "github",
@@ -27,7 +27,7 @@
        "remote": "github",
        "repository": "sainath24/proprietary_vendor_samsung",
        "target_path": "vendor/samsung",
-       "revision": "n-2.1"
+       "revision": "cm-13"
     },
     {
        "repository": "android_external_stlport",
